@@ -29,6 +29,7 @@ echo "Hello Stranger!";
      <p>I graduated Senior High in Lyceum of Cebu Santander Campus</p>
      <p>Currently studying BSIT in the college of USJR</p>
    </article>
-
+   
+  </main>
 </body>
 </html>
